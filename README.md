@@ -10,3 +10,11 @@
 | 有限制时间                   | ✅        | 实现于 MyGameInstance 的事件图表   |
 | 最后弹结算ui                 | ✅        | 实现于 EndGame 控件                |
 
+## 演示视频
+
+微云：https://share.weiyun.com/STIEECKz
+
+或
+
+百度网盘：https://pan.baidu.com/s/1FlcLil76Va0iYZ7aNtQZwQ 
+提取码：8888
